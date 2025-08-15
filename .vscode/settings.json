@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CrossWarp.sln"
+    "dotnet.defaultSolution": "Industry-4.0.sln"
 }
